@@ -1,0 +1,16 @@
+.projectContainer {
+    border: 1px solid gray;
+    padding: 1vw;
+    margin: 3vh;
+    background-color: #eaf7ff;
+}
+
+.projectContainer h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.projectContainer p {
+    width: 50vw;
+    margin:auto;
+}

@@ -1,0 +1,15 @@
+h4 {
+    display: inline;
+}
+
+.skill {
+    padding-bottom: 2.5vh;
+    padding-top: 2.5vh;
+}
+.row { 
+    margin-bottom: 10vh;
+}
+
+.fa {
+    color: #f4d318;
+}

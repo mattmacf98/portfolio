@@ -1,0 +1,14 @@
+
+.jumbotron {
+    background-color: #83d0fc;
+    color: floralwhite;
+    padding: 7.5vh;
+}
+
+nav {
+    background-color: #0295ea;
+}
+
+#jumboContent {
+    margin: 5vh;
+}
